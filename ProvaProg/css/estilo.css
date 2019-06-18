@@ -1,0 +1,47 @@
+div.cadastro{
+  border-width: 6px;
+  border-style: groove;
+  border-color: #000000;
+  margin-left: 42.5%;
+  margin-right:42.5% ;
+}
+
+body{
+  text-align: center;
+}
+
+input.inp{
+  margin-bottom: 7.5px;
+  height: 25px;
+  width: 96%;
+}
+
+.botao{
+  margin-bottom: 7.5px;
+
+  width: 100%;
+}
+
+
+table{
+  text-align: center;
+  border-style: double;
+  border-width: 5px;
+  margin-left: 36.5%;
+  margin-right: 45%;
+  margin-top:auto;
+}
+.celula_fixa {
+	   width: 200px;
+	   height: auto;
+	   overflow: 1px;
+}
+
+.estilo{
+  text-align: center;
+  border-width: 4px;
+  border-style: groove;
+  border-color: #000000;
+  margin-left: 42.5%;
+  margin-right:42.5% ;
+}
